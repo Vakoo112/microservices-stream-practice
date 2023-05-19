@@ -1,0 +1,13 @@
+com\example\movieservice\controller\MovieController.class
+com\example\movieservice\domain\Movie.class
+com\example\movieservice\response\ListResponse.class
+com\example\movieservice\domain\Genre.class
+com\example\movieservice\domain\dto\MovieMapper.class
+com\example\movieservice\repository\MovieRepository.class
+com\example\movieservice\domain\dto\MovieResponseDto.class
+com\example\movieservice\service\MovieService.class
+com\example\movieservice\domain\dto\MovieMapperImpl.class
+com\example\movieservice\service\Mservice.class
+com\example\movieservice\repository\GenreRepository.class
+com\example\movieservice\MovieServiceProjectApplication.class
+com\example\movieservice\bootstrap\Bootstrap.class
